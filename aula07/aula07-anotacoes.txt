@@ -1,0 +1,30 @@
+Filas - Tipo de Estrutura de Dados
+Conceito:
+Primeiro a chegar, é o primeiro a sair.
+FIFO - First In First Out. 
+trabalha com indices
+EnQueue - Entrada
+Dequeue - saída
+Quantidade limitada, espaço na memória.
+Otimizar algoritmos
+Funções
+is empty
+size
+posição 0 é o início da fila
+n final 
+sempre consome o primeiro elemento colocado no inicio
+pilha unico acesso topo
+fila tem uma entrada e uma saida
+estrutura circular
+head entrada
+tail saida
+head e tail é móvel
+se cabeça e calda estão apontando para o mesmo espaço, é igual, está cheio. Para filas com espaços delimitados.
+i informação
+f função
+tab
+pra que utilizar a fila
+prioridade
+ordem cronológica
+
+
